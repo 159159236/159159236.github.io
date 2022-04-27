@@ -11,5 +11,5 @@ https://43.138.21.129/categories/index.html
 https://43.138.21.129/bb/index.html
 https://43.138.21.129/tags/index.html
 https://43.138.21.129/
-https://43.138.21.129/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/
 https://43.138.21.129/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/
+https://43.138.21.129/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/
